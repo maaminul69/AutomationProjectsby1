@@ -1,0 +1,10 @@
+[TRACE] 2024-02-16 23:13:28.426 [main] TestLog4jDemo - From trace method
+[INFO ] 2024-02-16 23:13:28.430 [main] TestLog4jDemo - From info method
+[WARN ] 2024-02-16 23:13:28.430 [main] TestLog4jDemo - From warn method
+[ERROR] 2024-02-16 23:13:28.431 [main] TestLog4jDemo - From error method
+[FATAL] 2024-02-16 23:13:28.431 [main] TestLog4jDemo - From fatal method
+[TRACE] 2024-02-16 23:15:45.650 [main] TestLog4jDemo - From trace method
+[INFO ] 2024-02-16 23:15:45.655 [main] TestLog4jDemo - From info method
+[WARN ] 2024-02-16 23:15:45.655 [main] TestLog4jDemo - From warn method
+[ERROR] 2024-02-16 23:15:45.656 [main] TestLog4jDemo - From error method
+[FATAL] 2024-02-16 23:15:45.656 [main] TestLog4jDemo - From fatal method

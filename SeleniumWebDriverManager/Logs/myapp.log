@@ -1,0 +1,8 @@
+2024-02-16 21:45:28,836 - Log4jDemo.TestLog4jDemo [processData] -(INFO) From info method 
+2024-02-16 21:45:28,842 - Log4jDemo.TestLog4jDemo [processData] -(WARN) From warn method 
+2024-02-16 21:45:28,842 - Log4jDemo.TestLog4jDemo [processData] -(ERROR) From error method 
+2024-02-16 21:45:28,843 - Log4jDemo.TestLog4jDemo [processData] -(FATAL) From fatal method 
+2024-02-16 22:54:05,872 - Log4jDemo.TestLog4jDemo [main] -(INFO) From info method 
+2024-02-16 22:54:05,881 - Log4jDemo.TestLog4jDemo [main] -(WARN) From warn method 
+2024-02-16 22:54:05,882 - Log4jDemo.TestLog4jDemo [main] -(ERROR) From error method 
+2024-02-16 22:54:05,882 - Log4jDemo.TestLog4jDemo [main] -(FATAL) From fatal method 
